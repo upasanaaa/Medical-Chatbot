@@ -22,10 +22,10 @@ pip install -r requirements.txt
 
 ```bash
 # Finally run the following command
-python app/main.py
+python app.py
 ```
 
 Now,
 ```bash
-open up you local host and port
+open up you local host and port (eg. localhost:8080)
 ```
